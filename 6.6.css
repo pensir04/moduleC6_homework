@@ -1,0 +1,32 @@
+.inp-message {
+	width: 250px;
+	height: 46px;
+	margin: 5px;
+	border-width: 2px;
+	border-color: #000;
+}
+.btn {
+	width: 100px;
+	height: 50px;
+	margin: 5px;
+}
+.geo {
+	width: 100px;
+	height: 50px;
+	margin: 5px;
+}
+.chat {
+	width: 480px;
+	height: 400px;	
+	margin: 5px;
+	border: 2px solid;
+	border-color: #000;
+}
+.btn:hover {
+  box-shadow: 0px 2px 8px 2px rgba(141,150,178,.3);
+  transform: scale(1.05);
+}
+.geo:hover {
+  box-shadow: 0px 2px 8px 2px rgba(141,150,178,.3);
+  transform: scale(1.05);
+}
